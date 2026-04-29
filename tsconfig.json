@@ -15,6 +15,7 @@
     "paths": {
       "@/*": ["src/*"] // Maps '@/' to the 'src' directory
     },
+    "ignoreDeprecations": "6.0",
     "strict": true,
     "esModuleInterop": true,
     // For nodejs:
